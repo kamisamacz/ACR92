@@ -86,5 +86,5 @@ Po spuštění se zobrazí menu s možnostmi:
 
 ## 5. Kontakt
 
-Pokud máte jakékoli dotazy nebo potřebujete pomoc, neváhejte mě kontaktovat na [vas@email.cz](mailto:vas@email.cz).
+Pokud máte jakékoli dotazy nebo potřebujete pomoc, neváhejte mě kontaktovat na [kamisamacz@gmail.com](kamisamacz@gmail.com).
 
