@@ -81,6 +81,7 @@ Po spuštění se zobrazí menu s možnostmi:
 - Python **3.7** nebo novější.
 - Knihovna `selenium` pro scrapování.
 - WebDriver pro Chrome (musí být nainstalován a přístupný v PATH).
+- Chrome
 
 ---
 ## 5. Postup řešení
