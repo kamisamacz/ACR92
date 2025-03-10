@@ -32,6 +32,15 @@ Po spuštění se zobrazí menu s možnostmi:
 4. **Export do HTML** – Exportuje výsledky do HTML souboru.
 5. **Konec** – Ukončí program.
 
+### Jak funguje menu
+
+- Po zadání čísla odpovídající možnosti v menu a stisknutí **Enter** program provede zvolenou akci.
+- **Start scrapování** zahájí proces stahování dat z předem definovaného zdroje.
+- **Vymazání databáze** nenávratně odstraní všechna uložená data.
+- **Vyhledání slova v databázi** umožňuje uživateli zadat klíčové slovo a získat odpovídající výsledky.
+- **Export do HTML** uloží výstup do souboru ve formátu HTML pro snadné prohlížení.
+- **Konec** ukončí program a zavře všechny procesy.
+
 ---
 
 ## 3. Spuštění projektu v PyCharmu
